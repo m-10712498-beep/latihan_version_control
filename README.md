@@ -1,1 +1,1 @@
-#Latihan Version Control Saya
+Amali Git dan GitHub selesai.
